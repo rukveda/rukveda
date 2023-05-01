@@ -7,3 +7,5 @@
 </a>
 
 - 🏫: &nbsp;I'm Pursuing B.E ECE at JEC"24
+- 💬: I like to talk about IOT and electronics
+- 📫: Ask me about anything, I am happy to help
