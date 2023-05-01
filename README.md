@@ -5,3 +5,5 @@
 <a href="#vmmuthu31-title">
   <img src="https://github-readme-stats.vercel.app/api?username=rukveda&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Rajalakshm" align="right" />
 </a>
+
+- 🏫: &nbsp;I'm Pursuing B.E ECE at JEC"24
